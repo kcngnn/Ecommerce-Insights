@@ -6,11 +6,11 @@ I performed the following analyses:
 - Define Customer Clusters
 - Predict the Possibility of Repurchase Within 3 Months
 
-Tool(s):
+### Tool(s):
 Python
 
-Technique(s):
+### Technique(s):
 Clustering, Classification
 
-File(s) included:
+### File(s) included:
 Notebook
